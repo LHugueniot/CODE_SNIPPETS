@@ -1,0 +1,1 @@
+g++ type_name.cpp -o a.out --std=c++1z

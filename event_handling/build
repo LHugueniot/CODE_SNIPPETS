@@ -1,0 +1,1 @@
+g++ *.cpp *.hpp -o a.out
