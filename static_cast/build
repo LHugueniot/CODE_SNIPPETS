@@ -1,1 +1,0 @@
-g++ main.cpp -o a.out --std=c++1z
